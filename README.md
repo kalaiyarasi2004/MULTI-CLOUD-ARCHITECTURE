@@ -29,6 +29,8 @@ A simplified multi-cloud architecture diagram was created showing:
 AWS S3 (Static Website) → sends API requests → GCP Cloud Function (Serverless Backend)
 This visually represents service distribution and interaction between two cloud environments.
 
+![Image](https://github.com/user-attachments/assets/1f8a7683-876e-46ba-901c-89973c33bdb5)
+
 Demonstration & Testing:
 Deployed and tested the solution by accessing the AWS-hosted frontend and submitting form data.
 Confirmed API communication by logging responses from GCP Cloud Functions.
@@ -45,3 +47,7 @@ Gained practical knowledge of handling networking and permission challenges
 Cloud Deployment & Debugging:
 Practiced deployment on both AWS and GCP
 Learned to troubleshoot frontend/backend connectivity issues
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5485d3b1-907d-4400-b96c-5ead3fa50572)
